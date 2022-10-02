@@ -6,5 +6,3 @@ export default {
 export {
     loadTravelataWidgets,
 }
-const createWidget = await loadTravelataWidgets();
-createWidget('tizer', {id:"app", text:"fucking widgets"})
